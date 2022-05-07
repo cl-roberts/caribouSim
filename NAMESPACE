@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "coef", "fisher.test", "glm", "na.omit", "poisson",
+               "rbinom", "sd")
+importFrom("utils", "read.csv")

@@ -1,0 +1,11 @@
+citHeader("To cite caribouSim in publications use:")
+
+bibentry(
+  bibtype    = "Manual",
+  title    = "caribouSim: Functions for evaluating Rivest Estimator",
+  author   = "CL Roberts",
+  year     = "2022",
+  url      = "https://github.com/chrisroberts2112/caribouSim",
+  note     = "R package version 0.1.0",
+  textVersion = "test"
+)
